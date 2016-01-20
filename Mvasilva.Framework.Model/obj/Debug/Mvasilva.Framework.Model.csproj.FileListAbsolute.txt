@@ -1,0 +1,7 @@
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework\Mvasilva.Framework.Model\bin\Debug\Mvasilva.Framework.Model.dll
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework\Mvasilva.Framework.Model\bin\Debug\Mvasilva.Framework.Model.pdb
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework\Mvasilva.Framework.Model\obj\Debug\Mvasilva.Framework.Model.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework\Mvasilva.Framework.Model\obj\Debug\Mvasilva.Framework.Model.dll
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework\Mvasilva.Framework.Model\obj\Debug\Mvasilva.Framework.Model.pdb
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework\Mvasilva.Framework.Model\bin\Debug\System.Web.Mvc.dll
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework\Mvasilva.Framework.Model\bin\Debug\System.Web.Mvc.xml

@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvasilva.Framework.BLL", "Mvasilva.Framework.BLL\Mvasilva.Framework.BLL.csproj", "{8E58542B-B8AB-4BAD-9842-BEE836448A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvasilva.Framework.Model", "Mvasilva.Framework.Model\Mvasilva.Framework.Model.csproj", "{173BFD9D-CAFD-4385-8F02-CCDA0AE02A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvasilva.Framework.DAO", "Mvasilva.Framework.DAO\Mvasilva.Framework.DAO.csproj", "{BC2121E3-2555-414B-A6F5-F82A99C52B41}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Mvasilva.Framework.SQL", "Mvasilva.Framework.SQL\Mvasilva.Framework.SQL.sqlproj", "{A9437C08-2D83-4AA9-8BB1-DF3FC35D34B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E58542B-B8AB-4BAD-9842-BEE836448A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E58542B-B8AB-4BAD-9842-BEE836448A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E58542B-B8AB-4BAD-9842-BEE836448A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E58542B-B8AB-4BAD-9842-BEE836448A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173BFD9D-CAFD-4385-8F02-CCDA0AE02A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173BFD9D-CAFD-4385-8F02-CCDA0AE02A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173BFD9D-CAFD-4385-8F02-CCDA0AE02A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173BFD9D-CAFD-4385-8F02-CCDA0AE02A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2121E3-2555-414B-A6F5-F82A99C52B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2121E3-2555-414B-A6F5-F82A99C52B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2121E3-2555-414B-A6F5-F82A99C52B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2121E3-2555-414B-A6F5-F82A99C52B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9437C08-2D83-4AA9-8BB1-DF3FC35D34B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9437C08-2D83-4AA9-8BB1-DF3FC35D34B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9437C08-2D83-4AA9-8BB1-DF3FC35D34B6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A9437C08-2D83-4AA9-8BB1-DF3FC35D34B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9437C08-2D83-4AA9-8BB1-DF3FC35D34B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9437C08-2D83-4AA9-8BB1-DF3FC35D34B6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal
