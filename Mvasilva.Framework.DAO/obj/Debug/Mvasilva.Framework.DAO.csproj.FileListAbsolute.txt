@@ -11,3 +11,16 @@ C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework\Mvasilva
 C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework\Mvasilva.Framework.DAO\obj\Debug\Mvasilva.Framework.DAO.csprojResolveAssemblyReference.cache
 C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework\Mvasilva.Framework.DAO\obj\Debug\Mvasilva.Framework.DAO.dll
 C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework\Mvasilva.Framework.DAO\obj\Debug\Mvasilva.Framework.DAO.pdb
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\bin\Debug\Mvasilva.Framework.DAO.dll
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\bin\Debug\Mvasilva.Framework.DAO.pdb
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\bin\Debug\Mvasilva.Framework.Model.dll
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\bin\Debug\System.Web.Mvc.dll
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\bin\Debug\Mvasilva.Framework.Model.pdb
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\bin\Debug\System.Web.Mvc.xml
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\obj\Debug\Mvasilva.Framework.DAO.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\obj\Debug\Mvasilva.Framework.DAO.dll
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.DAO\obj\Debug\Mvasilva.Framework.DAO.pdb

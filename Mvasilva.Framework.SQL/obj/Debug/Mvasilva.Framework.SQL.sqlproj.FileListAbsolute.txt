@@ -1,0 +1,5 @@
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.SQL\bin\Debug\Mvasilva.Framework.SQL.dacpac
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.SQL\bin\Debug\Mvasilva.Framework.SQL.dll
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.SQL\bin\Debug\Mvasilva.Framework.SQL.pdb
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.SQL\obj\Debug\Mvasilva.Framework.SQL.dll
+C:\Users\Marcos\Documents\projetos\MvasilvaFramework\Mvasilva.Framework.SQL\obj\Debug\Mvasilva.Framework.SQL.pdb

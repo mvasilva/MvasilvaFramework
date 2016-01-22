@@ -1,4 +1,0 @@
-﻿CREATE TABLE [dbo].[TB_GER_User]
-(
-	[Id] INT NOT NULL PRIMARY KEY
-)

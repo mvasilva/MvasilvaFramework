@@ -59,6 +59,7 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="TB_GER_User.sql" />
+    <None Include="Tables.sql" />
+    <None Include="Procedures.sql" />
   </ItemGroup>
 </Project>

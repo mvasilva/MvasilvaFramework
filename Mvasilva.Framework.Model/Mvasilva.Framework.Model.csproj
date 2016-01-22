@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FileReport.cs" />
+    <Compile Include="ImagesResourceEmail.cs" />
     <Compile Include="Module.cs" />
     <Compile Include="Permission.cs" />
     <Compile Include="User.cs" />

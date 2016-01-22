@@ -51,6 +51,11 @@
     <Compile Include="Filters\PermitionActionFilter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UserBLL.cs" />
+    <Compile Include="Util\CryptoProvider.cs" />
+    <Compile Include="Util\DatetimeExtensions.cs" />
+    <Compile Include="Util\DecimalExtensions.cs" />
+    <Compile Include="Util\EmailHelper.cs" />
+    <Compile Include="Util\StringExtensions.cs" />
     <Compile Include="Util\Variables.cs" />
   </ItemGroup>
   <ItemGroup>
